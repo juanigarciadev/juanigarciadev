@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning HTML & CSS.
 
-📫 How to reach me: nachotadev@gmail.com
+📫 How to reach me: juanigarciadev@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachotagg&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p>
 
