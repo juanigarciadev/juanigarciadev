@@ -19,5 +19,5 @@
 <!--  -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nachotagg&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=juanigarciadev&theme=monokai)](https://github.com/juanigarciadev/github-profile-trophy)
 
