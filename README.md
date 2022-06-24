@@ -2,14 +2,15 @@
 <!-- Informacion -->
 <section align="center">
 	<div>
-		🔭 I’m currently working on <a href="https://todotech.netlify.app">TODOTECH</a> (my first project ever).
+		🔭 I’m currently working on <a href="https://todotech.netlify.app"><strong>TODOTECH</strong></a> (my first project ever).
 	</div>
-  <div>
-		🌱 I’m currently learning HTML & CSS.
+	<div>
+		🌱 I’m currently learning <strong>Javascript</strong>.
 	</div>
-  <div>
+	<div>
 		📫 How to reach me: juanigarciadev@gmail.com
 	</div>
+		</br>
 </section>
 <!-- Estadisticas perfil github -->
 <div align="center">
