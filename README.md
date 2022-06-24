@@ -1,5 +1,6 @@
 <h1 align="center">Welcome, I'm Juan Ignacio Garcia👋</h1>
 <!-- Informacion -->
+<h3 align="center">Various information:</h3>
 <section align="center">
 	<div>
 		🔭 I’m currently working on <a href="https://todotech.netlify.app"><strong>TODOTECH</strong></a> (my first project ever).
@@ -13,6 +14,7 @@
 		</br>
 </section>
 <!-- Estadisticas perfil github -->
+<h3 align="center">My Github statistics:</h3>
 <div align="center" display="inline">
   <a href="https://github.com/juanigarciadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanigarciadev&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
