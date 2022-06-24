@@ -36,4 +36,4 @@
 <!-- Animacion serpiente -->
 ![Snake animation](https://github.com/juanigarciadev/juanigarciadev/blob/output/github-contribution-grid-snake.svg)
 <!-- Visitas al perfil -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nachotagg&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=juanigarciadev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p>
