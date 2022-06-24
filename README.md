@@ -1,6 +1,5 @@
 <h1 align="center">Welcome, I'm Juan Ignacio Garcia👋</h1>
 <!-- Informacion -->
-<h3 align="center">Various information:</h3>
 <section align="center">
 	<div>
 		🔭 I’m currently working on <a href="https://todotech.netlify.app"><strong>TODOTECH</strong></a> (my first project ever).
@@ -11,7 +10,7 @@
 	<div>
 		📫 How to reach me: juanigarciadev@gmail.com
 	</div>
-		</br>
+</br>
 </section>
 <!-- Estadisticas perfil github -->
 <h3 align="center">My Github statistics:</h3>
