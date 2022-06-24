@@ -18,7 +18,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanigarciadev&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 <!-- Lenguajes y herramientas -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
   <div align="center">
   	<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
