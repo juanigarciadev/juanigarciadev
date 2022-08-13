@@ -34,6 +34,11 @@
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   </div>
 
+<div align="center">
+<h3>Certificates:</h3>
+<a href="https://www.coderhouse.com/certificados/62d8408a36514a0019594d8e?lang=en">Web development</a>
+</div>
+
 <!-- Animacion serpiente -->
 ![Snake animation](https://github.com/juanigarciadev/juanigarciadev/blob/output/github-contribution-grid-snake.svg)
 <!-- Visitas al perfil -->
