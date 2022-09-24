@@ -37,6 +37,7 @@
 <div align="center">
 <h3>Certificates:</h3>
 <a href="https://www.coderhouse.com/certificados/62d8408a36514a0019594d8e?lang=en" target="_blank">Web development</a>
+<a href="https://www.coderhouse.com/certificados/632d0428c20d6900248daa20?lang=en" target="_blank">JavaScript</a>
 </div>
 
 <!-- Animacion serpiente -->
