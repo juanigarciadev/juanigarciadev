@@ -2,7 +2,7 @@
 <!-- Informacion -->
 <div align="center">
 	<div>
-		🔭 I’m currently working on <a href="https://todotech.netlify.app"><strong>TODOTECH</strong></a> (my first project ever).
+		🔭 I’m currently working on <a href="https://juanigarciadev.github.io/portfolio/"><strong>My portfolio</strong></a>.
 	</div>
 	<div>
 		🌱 I’m currently learning <strong>Javascript</strong>.
