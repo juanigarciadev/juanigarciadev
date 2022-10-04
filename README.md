@@ -16,8 +16,8 @@
 <h3 align="center">My Github statistics:</h3>
 <div align="center" display="inline">
   <a href="https://github.com/juanigarciadev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juanigarciadev&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanigarciadev&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juanigarciadev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanigarciadev&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <!-- Lenguajes y herramientas -->
 <h3 align="center">Languages and Tools:</h3>
