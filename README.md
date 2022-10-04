@@ -2,13 +2,13 @@
 <!-- Informacion -->
 <div align="center">
 	<div>
-		🔭 I’m currently working on <a href="https://juanigarciadev.github.io/portfolio/"><strong>My portfolio</strong></a>.
+		🎯 Working on <a href="https://juanigarciadev.github.io/portfolio/"><strong>My portfolio</strong></a>.
 	</div>
 	<div>
 		🌱 I’m currently learning <strong>Javascript</strong>.
 	</div>
 	<div>
-		📫 How to reach me: juanigarciadev@gmail.com
+		📫 Trying to contact me? <a href="mailto:juanigarciadev@gmail.com">juanigarciadev@gmail.com</a>
 	</div>
 </br>
 </div>
