@@ -5,7 +5,7 @@
 		🎯 Working on <a href="https://www.behance.net/gallery/155968651/KAIROSEKI-"><strong>KAIRŌSEKI</strong></a>.
 	</div>
 	<div>
-		🌱 I’m currently learning <strong>Javascript</strong>.
+		🌱 I’m currently learning <strong>Photoshop and Illustrator</strong>.
 	</div>
 	<div>
 		📫 Trying to contact me? <a href="mailto:juanigarciadev@gmail.com">juanigarciadev@gmail.com</a>
