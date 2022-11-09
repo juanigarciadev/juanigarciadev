@@ -2,7 +2,7 @@
 <!-- Informacion -->
 <div align="center">
 	<div>
-		🎯 Working on <a href="https://juanigarciadev.github.io/portfolio/"><strong>My portfolio</strong></a>.
+		🎯 Working on <a href="https://www.behance.net/gallery/155968651/KAIROSEKI-"><strong>KAIRŌSEKI</strong></a>.
 	</div>
 	<div>
 		🌱 I’m currently learning <strong>Javascript</strong>.
