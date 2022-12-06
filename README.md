@@ -37,9 +37,9 @@
 
 <div align="center">
 <h3>Certificates:</h3>
-<a href="https://www.coderhouse.com/certificados/62d8408a36514a0019594d8e?lang=en" target="_blank">Web development</a></br>
-<a href="https://www.coderhouse.com/certificados/632d0428c20d6900248daa20?lang=en" target="_blank">JavaScript</a></br>
-<a href="https://www.coderhouse.com/certificados/638f4fc472bdc8000f8c4452" target="_blank">Photoshop & Illustrator</a></br>
+<a href="https://www.coderhouse.com/certificados/62d8408a36514a0019594d8e?lang=en" target="_blank">Web development [TOP 10%]</a></br>
+<a href="https://www.coderhouse.com/certificados/632d0428c20d6900248daa20?lang=en" target="_blank">JavaScript [TOP 10%]</a></br>
+<a href="https://www.coderhouse.com/certificados/638f4fc472bdc8000f8c4452" target="_blank">Photoshop & Illustrator [TOP 10%]</a></br>
 <a href="https://drive.google.com/file/d/127y4cU5rJb4wzK5RFu8XA4lz03HP9KgR/view" target="_blank">Digital Marketing Basics (Google)</a>
 </div>
 
