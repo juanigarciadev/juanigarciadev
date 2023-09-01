@@ -2,10 +2,10 @@
 <!-- Informacion -->
 <div align="center">
 	<div>
-		🎯 Working on <a href="https://zolution.vercel.app"><strong>zolution</strong></a>.
+		🎯 Working on <a href="https://juanigarciadev.vercel.app"><strong>my new portfolio</strong></a>.
 	</div>
 	<div>
-		🌱 I’m currently learning <strong>ReactJS</strong>.
+		🌱 I’m currently learning <strong>Tailwind CSS</strong>.
 	</div>
 	<div>
 		📫 Trying to contact me? <a href="mailto:juanigarciadev@gmail.com">juanigarciadev@gmail.com</a>
