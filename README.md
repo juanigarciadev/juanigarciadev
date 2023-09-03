@@ -49,9 +49,9 @@
 <a href="https://www.coderhouse.com/certificados/638f4fc472bdc8000f8c4452" target="_blank">Photoshop & Illustrator (TOP 10%)</a></br>
 <a href="https://www.coderhouse.com/certificados/64ba8dc18ba9d300025c87cd" target="_blank">Prototyping (Figma & Adobe XD) (TOP 10%)</a></br>
 <a href="https://drive.google.com/file/d/127y4cU5rJb4wzK5RFu8XA4lz03HP9KgR/view" target="_blank">Digital Marketing Basics (Google)</a>
-</div>
+</div></br>
 
 <!-- Animacion serpiente -->
-![Snake animation](https://github.com/juanigarciadev/juanigarciadev/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/juanigarciadev/juanigarciadev/blob/output/github-contribution-grid-snake.svg) -->
 <!-- Visitas al perfil -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juanigarciadev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p>
