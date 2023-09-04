@@ -1,17 +1,17 @@
 <h1 align="center">Welcome, I'm Juan Ignacio Garcia👋</h1>
 <!-- Informacion -->
-<div align="center">
+<div align="center">	
 	<div>
-		🎯 Working on <a href="https://juanigarciadev.vercel.app"><strong>my new portfolio</strong></a>.
+		Working on <a href="https://juanigarciadev.vercel.app"><strong>my new portfolio</strong></a>.
 	</div>
 	<div>
-		🌱 I’m currently learning <strong>Tailwind CSS</strong>.
+		Currently learning <a href="https://tailwindcss.com/"><strong align="center"><img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> Tailwind CSS</strong></a>.
 	</div>
 	<div>
-		📫 Trying to contact me? <a href="mailto:juanigarciadev@gmail.com">juanigarciadev@gmail.com</a>
+		Trying to contact me? <a href="mailto:juanigarciadev@gmail.com">juanigarciadev@gmail.com</a>
 	</div>
 	<div>
-		📚 Looking for more information and projects? <a href="https://juanigarciadev.vercel.app">Visit my portfolio!</a>
+		Looking for more information and projects? <a href="https://juanigarciadev.vercel.app"><img width="16px" src="https://res.cloudinary.com/diruiumfk/image/upload/v1680216082/beyond-imagination_zfxqv7.png" /> Visit my portfolio!</a>
 	</div>
 </br>
 </div>
