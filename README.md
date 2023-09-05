@@ -9,7 +9,7 @@
 	</div>
 	<div>
 		Trying to contact me? <a href="mailto:juanigarciadev@gmail.com">juanigarciadev@gmail.com</a>
-	</div>
+	</div></br>
 	<div>
 		Looking for more information and projects? <a href="https://juanigarciadev.vercel.app"><img width="16px" src="https://res.cloudinary.com/diruiumfk/image/upload/v1680216082/beyond-imagination_zfxqv7.png" /> Visit my portfolio!</a>
 	</div>
