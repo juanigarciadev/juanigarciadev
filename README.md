@@ -2,7 +2,7 @@
 <!-- Informacion -->
 <div align="center">	
 	<section>
-		Working on <a href="https://blossomui.vercel.app/"><strong>Blossom UI 🌸</strong></a>.
+		Working on <a href="https://blossomui.vercel.app/"><strong>🌸 Blossom UI</strong></a>.
 	</section>
 	<section>
 		Currently learning <a href="https://tailwindcss.com/"><strong align="center"><img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> Tailwind CSS</strong></a>.
