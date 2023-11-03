@@ -2,6 +2,7 @@
 
 
 My name is Juan Ignacio, Frontend Developer from <img src="https://hatscripts.github.io/circle-flags/flags/ar.svg" width="15"> Argentina.
+<p><img src="https://komarev.com/ghpvc/?username=juanigarciadev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /></p>
 
 ### Languages and tools:
 
@@ -48,11 +49,10 @@ Looking for more information and projects? <a href="https://juanigarciadev.verce
 
 ### Certificates:
 
-<a href="https://www.coderhouse.com/certificados/62d8408a36514a0019594d8e?lang=en" target="_blank">Web development (TOP 10%)</a></br>
-<a href="https://www.coderhouse.com/certificados/632d0428c20d6900248daa20?lang=en" target="_blank">JavaScript (TOP 10%)</a></br>
-<a href="https://www.coderhouse.com/pages/certificados/646aaebabdc9fb0002e5f21e" target="_blank">ReactJS (TOP 10%)</a></br>
-<a href="https://www.coderhouse.com/certificados/64ba8dc18ba9d300025c87cf" target="_blank">Frontend ReactJS Carreer (TOP 10%)</a></br>
-<a href="https://www.coderhouse.com/certificados/638f4fc472bdc8000f8c4452" target="_blank">Photoshop & Illustrator (TOP 10%)</a></br>
-<a href="https://www.coderhouse.com/certificados/64ba8dc18ba9d300025c87cd" target="_blank">Prototyping (Figma & Adobe XD) (TOP 10%)</a></br>
-<a href="https://drive.google.com/file/d/127y4cU5rJb4wzK5RFu8XA4lz03HP9KgR/view" target="_blank">Digital Marketing Basics (Google)</a>
-<p> <img src="https://komarev.com/ghpvc/?username=juanigarciadev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p>
+[Web development (TOP 10%)](https://www.coderhouse.com/certificados/62d8408a36514a0019594d8e?lang=en)</br>
+[Javascript (TOP 10%)](https://www.coderhouse.com/certificados/632d0428c20d6900248daa20?lang=en)</br>
+[ReactJS (TOP 10%)](https://www.coderhouse.com/pages/certificados/646aaebabdc9fb0002e5f21e)</br>
+[Frontend ReactJS Carreer (TOP 10%)](https://www.coderhouse.com/certificados/64ba8dc18ba9d300025c87cf)</br>
+[Photoshop & Illustrator (TOP 10%)](https://www.coderhouse.com/certificados/638f4fc472bdc8000f8c4452)</br>
+[Prototyping (Figma & Adobe XD) (TOP 10%)](https://www.coderhouse.com/certificados/64ba8dc18ba9d300025c87cd)</br>
+[Digital Marketing Basics (Google)](https://drive.google.com/file/d/127y4cU5rJb4wzK5RFu8XA4lz03HP9KgR/view)</br>
