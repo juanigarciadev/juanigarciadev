@@ -1,6 +1,5 @@
 # Hey, welcome to my profile!
 
-
 My name is Juan Ignacio, Frontend Developer from <img src="https://hatscripts.github.io/circle-flags/flags/ar.svg" width="15"> Argentina.
 <p><img src="https://komarev.com/ghpvc/?username=juanigarciadev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /></p>
 
@@ -25,7 +24,6 @@ My name is Juan Ignacio, Frontend Developer from <img src="https://hatscripts.gi
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-<!-- Informacion -->
 <hr/>
 
 ### General information:
@@ -45,41 +43,3 @@ Looking for more information and projects? <a href="https://juanigarciadev.verce
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juanigarciadev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanigarciadev&layout=compact&langs_count=7&theme=synthwave"/>
 <hr/>
-<!-- Lenguajes y herramientas -->
-
-### Certificates:
-
-Web development (TOP 10%)</br>
-Granted by: Coderhouse</br>
-Time spent: 10 weeks</br>
-[Go to certificate](https://www.coderhouse.com/certificados/62d8408a36514a0019594d8e?lang=en)</br>
-
-Javascript (TOP 10%)<br/>
-Granted by: Coderhouse</br>
-Time spent: 9 weeks</br>
-[Go to certificate](https://www.coderhouse.com/certificados/632d0428c20d6900248daa20?lang=en)</br>
-
-ReactJS (TOP 10%)<br/>
-Granted by: Coderhouse</br>
-Time spent: 8 weeks</br>
-[Go to certificate](https://www.coderhouse.com/certificados/646aaebabdc9fb0002e5f21e?lang=en)</br>
-
-Frontend ReactJS Carreer (TOP 10%)<br/>
-Granted by: Coderhouse</br>
-Time spent: 27 weeks</br>
-[Go to certificate](https://www.coderhouse.com/certificados/64ba8dc18ba9d300025c87cf)</br>
-
-Photoshop & Illustrator (TOP 10%)<br/>
-Granted by: Coderhouse</br>
-Time spent: 6 weeks</br>
-[Go to certificate](https://www.coderhouse.com/certificados/638f4fc472bdc8000f8c4452)</br>
-
-Prototyping (Figma & Adobe XD) (TOP 10%)<br/>
-Granted by: Coderhouse</br>
-Time spent: 11 weeks</br>
-[Go to certificate](https://www.coderhouse.com/certificados/64ba8dc18ba9d300025c87cd)</br>
-
-Digital Marketing Basics<br/>
-Granted by: Google</br>
-Time spent: 40 hours</br>
-[Go to certificate](https://drive.google.com/file/d/127y4cU5rJb4wzK5RFu8XA4lz03HP9KgR/view)</br>
