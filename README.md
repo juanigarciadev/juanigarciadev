@@ -1,4 +1,4 @@
-# Hey, welcome to my Github profile!
+# Hey, welcome to my profile!
 
 My name is Juan Ignacio, Frontend Developer from <img src="https://hatscripts.github.io/circle-flags/flags/ar.svg" width="15"> Argentina.
 <p><img src="https://komarev.com/ghpvc/?username=juanigarciadev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /></p>
