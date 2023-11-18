@@ -28,7 +28,7 @@ My name is Juan Ignacio García, Frontend Developer from <img src="https://hatsc
 
 ### General information:
 
-Working on <a href="https://blossomui.vercel.app/"><strong>🌸 Blossom UI</strong></a>.	
+Working on <a href="https://blossomui.vercel.app/"><strong>Blossom UI 🌸</strong></a>.	
 	
 Currently learning <a href="https://tailwindcss.com/"><strong align="center"><img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> Tailwind CSS</strong></a>.	
 	
