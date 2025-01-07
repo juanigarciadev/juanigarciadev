@@ -11,7 +11,7 @@ My name is Juan Ignacio García, Frontend Developer from <img src="https://hatsc
 
 ### General information:
 
-Working on <a href="https://blossomui.vercel.app/"><strong>Blossom UI 🌸</strong></a>.	
+Working on <a href="https://impuestar.vercel.app/"><strong>impuestAR 💵</strong></a>.	
 	
 Currently learning <a href="https://astro.build/"><strong align="center">Astro</strong></a>.	
 	
