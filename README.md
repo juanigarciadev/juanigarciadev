@@ -5,7 +5,7 @@ My name is Juan Ignacio García, Frontend Developer from <img src="https://hatsc
 
 ### Languages and tools:
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,js,tailwind,vite,firebase,sass,bootstrap,vercel,netlify,npm,html,css,git,github,figma,photoshop,illustrator)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,js,ts,tailwind,vite,firebase,sass,bootstrap,vercel,netlify,npm,html,css,git,github,figma,photoshop,illustrator)
 
 <hr/>
 
