@@ -3,9 +3,32 @@
 My name is Juan Ignacio García, Frontend Developer from <img src="https://hatscripts.github.io/circle-flags/flags/ar.svg" width="15"> Argentina.
 <p><img src="https://komarev.com/ghpvc/?username=juanigarciadev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /></p>
 
-### Languages and tools:
-
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,js,ts,tailwind,vite,firebase,sass,bootstrap,vercel,netlify,npm,html,css,git,github,figma,photoshop,illustrator)
+<table>
+  <tr>
+    <tr>
+      <th>Lang</th>
+      <th>Web</th>
+      <th>DB</th>
+      <th>Infra</th>
+      <th>Tools</th>
+    </tr>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=ts,js&perline=8" />
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,astro,vite,tailwind,sass&perline=8" />
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=azure,firebase&perline=8" />
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=vercel,netlify&perline=8" />
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=vscode,ps,ai,figma&perline=8" />
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
