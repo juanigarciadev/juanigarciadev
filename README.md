@@ -25,7 +25,7 @@ My name is Juan Ignacio García, Frontend Developer from <img src="https://hatsc
       <img src="https://skillicons.dev/icons?i=vercel,netlify&perline=8" />
     </td>
     <td valign="top">
-      <img src="https://skillicons.dev/icons?i=vscode,ps,ai,figma&perline=8" />
+      <img src="https://skillicons.dev/icons?i=vscode,git,ps,ai,figma&perline=8" />
     </td>
   </tr>
 </table>
