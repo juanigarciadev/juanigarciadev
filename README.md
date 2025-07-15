@@ -46,5 +46,6 @@ Looking for more information and projects? <a href="https://juanigarciadev.verce
 ### My Github statistics:
 
 <a href="https://github.com/juanigarciadev">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=juanigarciadev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanigarciadev&layout=compact&langs_count=7&theme=synthwave"/>
+<img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=juanigarciadev&theme=synthwave&hide_border=false"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=juanigarciadev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanigarciadev&layout=compact&langs_count=7&theme=synthwave"/>
