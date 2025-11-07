@@ -34,9 +34,9 @@ My name is Juan Ignacio García, Frontend Developer from <img src="https://hatsc
 
 ### General information:
 
-Working on <a href="https://impuestar.vercel.app/"><strong>impuestAR 💵</strong></a>.	
+Working on <a href="https://www.grupobroda.com/"><strong>Grupo Broda</strong></a>.	
 	
-Currently learning <a href="https://astro.build/"><strong align="center">Astro</strong></a>.	
+Currently learning <a href="https://astro.build/"><strong align="center">MySQL</strong></a>.	
 	
 Trying to contact me? <a href="mailto:juanigarciadev@gmail.com">juanigarciadev@gmail.com</a>
 	
