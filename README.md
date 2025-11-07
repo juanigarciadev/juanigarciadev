@@ -34,7 +34,7 @@ My name is Juan Ignacio García, Frontend Developer from <img src="https://hatsc
 
 ### General information:
 
-Working on <a href="https://www.grupobroda.com/"><strong>Grupo Broda</strong></a>.	
+Working at <a href="https://www.grupobroda.com/"><strong>Grupo Broda</strong></a>.	
 	
 Currently learning <a href="https://astro.build/"><strong align="center">MySQL</strong></a>.	
 	
