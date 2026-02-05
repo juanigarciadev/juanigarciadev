@@ -1,7 +1,7 @@
 # Hey, welcome to my GitHub profile!
 
 My name is Juan Ignacio García, Frontend Developer from <img src="https://hatscripts.github.io/circle-flags/flags/ar.svg" width="15"> Argentina.
-<p><img src="https://komarev.com/ghpvc/?username=juanigarciadev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /></p>
+<!--<p><img src="https://komarev.com/ghpvc/?username=juanigarciadev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /></p>-->
 
 <table>
   <tr>
