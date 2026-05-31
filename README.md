@@ -19,7 +19,7 @@ My name is Juan Ignacio García, Frontend Developer from <img src="https://hatsc
       <img src="https://skillicons.dev/icons?i=react,nextjs,astro,vite,tailwind,sass&perline=8" />
     </td>
     <td valign="top">
-      <img src="https://skillicons.dev/icons?i=azure,firebase&perline=8" />
+      <img src="https://skillicons.dev/icons?i=mysql,azure,firebase&perline=8" />
     </td>
     <td valign="top">
       <img src="https://skillicons.dev/icons?i=vercel,netlify&perline=8" />
